@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+    {{ partial "navbar.html" . }}
+
+    <header class="about-header" style="background-image: url('/assets/images/{{ .Params.image }}');">
+        <div class="container">
+            <h1>{{ .Params.title }}</h1>
+            {{ if .Params.subtitles }}
+            <h5>{{ .Params.subtitles }}</h5>
+            {{ end }}
+            <hr>
+        </div>
+    </header>
+
+    <main class="my-5">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    {{ if (eq .Title "Secretariat") }}
+                    {{ partial "secretariat.html" . }}
+                    {{ else }}
+                    {{ .Content }}
+                    {{ end }}
+                </div>
+                  {{ partial "sidebar.html" . }}
+                </div>
+            </div>
+        </div>
+    </main>
+
+    {{ partial "footer.html" }}
+
+
+    <!-- Javascript -->
+    <script src="/assets/js/script.js"></script>
+</body>
+
+</html>

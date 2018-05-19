@@ -1,0 +1,27 @@
+header {
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding-top: 30vh;
+  padding-bottom: 15vh;
+  margin-top: 66px;
+  h1 {
+    font-size: 3rem;
+    font-weight: 300;
+  }
+  hr {
+    border-top: 3px #fff solid;
+    margin-left: 0;
+    width: 15vmin;
+  }
+}
+
+@media screen and (min-width: map-get($grid-breakpoints, "sm")) {
+  header {
+    h1{
+      font-size: 4rem;
+    }
+  }
+}

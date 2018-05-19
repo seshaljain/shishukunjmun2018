@@ -1,0 +1,17 @@
+<div class="col-lg-4 sidebar">
+  <h5>Announcements</h5>
+  <hr class="gradient-separator">
+  <ul>
+    {{range .Site.Data.announcements.list}}
+    <li>{{ . | markdownify}}</li>
+    {{ end }}
+  </ul>
+  <h5>About Shishukunj MUN</h5>
+  <hr class="gradient-separator">
+  <p>The Shishukunj Model United Nations conference is one of the biggest conferences of its kind. For its fourth iteration,
+    to be held on September 27, 2018, to September 30, 2018, Shishukunj MUN offers a one of a kind opportunity to students
+    across India by stimulating an academic cum extra-curricular experience for the delegates to enjoy and be inspired by.
+    Hosted by and at the Shishukunj International School, Indore, Shishukunj MUN promises to be an enriching and unforgettable
+    experience for all.</p>
+    <img class="img-fluid" src="/assets/images/sidebar-logos.png" alt="Shishukunj MUN, MUN World India, EVOLVE">
+</div>

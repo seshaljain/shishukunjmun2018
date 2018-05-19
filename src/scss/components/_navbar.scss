@@ -1,0 +1,32 @@
+.navbar {
+  box-shadow: 0 .2rem .5rem rgba($black, .175);
+  .dropdown-menu {
+    text-align: right;
+  }
+}
+
+.dropdown-section-header {
+  font-weight: 700;
+  font-size: $font-size-lg;
+}
+
+@media screen and (max-width: map-get($grid-breakpoints, "lg")) {
+  .navbar {
+    .dropdown-menu {
+      text-align: inherit;
+    }
+  }
+  .navbar-brand span {
+    display: none;
+  }
+  .navbar-collapse {
+    max-height: 50vh;
+    overflow-y: auto;
+  }
+}
+
+@media screen and (min-width: map-get($grid-breakpoints, "lg")) {
+  .dropdown-menu {
+    box-shadow: $dropdown-box-shadow; // mixin not used because sitewide shadows not enabled
+  }
+}

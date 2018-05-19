@@ -1,0 +1,17 @@
+.headshot {
+  width: 196px;
+  @include img-fluid;
+}
+
+@media screen and (max-width: map-get($grid-breakpoints, "sm")) {
+  .headshot {
+    display: block;
+    margin: 1rem auto;
+  }
+}
+@media screen and (min-width: map-get($grid-breakpoints, "sm")) {
+  .headshot {
+    float: left;
+    margin-right: map-get($spacers, 4);
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "shishukunj-mun-2018",
+  "version": "1.0.0",
+  "description": "Website for Shishukunj MUN 2018",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap.native": "^2.0.21"
+  },
+  "devDependencies": {
+    "argv": "^0.0.2",
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.4.0",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "hugo-bin": "^0.22.0"
+  }
+}
