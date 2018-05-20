@@ -1,6 +1,6 @@
 ---
 title: "United Nations Environment Programme"
-agenda: "Devising a Prudential Approach regarding Perpetual Disposal of Nuclear Waste to Avoid Long Term Repurcussions"
+agenda: "Devising a Prudential Approach Regarding Perpetual Disposal of Nuclear Waste to Avoid Long Term Repurcussions"
 image: "unep.jpg"
 ---
 ## Letter from the Co-Chairpersons
@@ -27,7 +27,7 @@ United Nations Environment Programme
 ## Organ Description
 The voice for the environment within the UN, the United Nations Environment Programme (UNEP) serves as an authoritative advocate for the global environment. Headquartered at Nairobi, Kenya, UNEP aims to provide leadership and consensus between nations on aggravating environmental matters. UNEP’s activities cover a wide range of issues regarding the atmosphere, marine and terrestrial ecosystems, environmental governance and green economy. UNEP categorizes its works into seven vast thematic areas: climate change, resource efficiency, disasters and conflicts, ecosystem management, environmental governance, chemicals and waste, and environmental under review. The leading global environmental authority, UNEP, promotes the coherent implementation of environmental aspects of sustainable development within the whole world. With 181 active members, UN Environment has aided in the formulation of guidelines and treaties on issues such as the international trade in potentially harmful chemicals, trans-boundary air pollution, and contamination of international waterways. 
 
-### Agenda: Devising a Prudential Approach regarding Perpetual Disposal of Nuclear Waste to Avoid Long Term Repurcussions
+### Agenda: Devising a Prudential Approach Regarding Perpetual Disposal of Nuclear Waste to Avoid Long Term Repurcussions
 In the twenty first century, the main objective of many international organisations and countries has been sustainable development. One way to achieve this has been through development of renewable sources of energy. Nuclear energy caters to this very need. But even this popular and 'clean' source of energy has its drawback- the problem of nuclear waste disposal. Nuclear waste is radioactive, penetrates live cells and changes their structure leading to diseases in plants and animals. It can cause diarrhoea, nausea, and in extreme cases, death. Therefore, measures to confine it have been devised. The failures of some such measures have often been linked to unfortunate incidents like the ones in Fukushima, Japan or New Mexico.  
 The other efficient ones are only short term solutions which do not provide for permanent solutions. Nuclear waste is radioactive for thousands of years, so it needs to be stored in such a way that it can reside there forever. Unscientific disposal of nuclear is the cause of a big ecological nuisance. Acres of land near the dump yards are isolated, the water which encounters the waste becomes hazardous, etc. Currently, its disposal is a national level operation which involves its unscientific and disastrous disposal harming the environment.  
 Devising a scientific, long term and risk-free plan for the scientific disposal of this waste is what the committee aims at.

@@ -1,5 +1,5 @@
 ---
-title: EVOLVE
+title: Evolve
 image: "evolve.jpg"
 ---
 Shishukunj MUN builds upon the legacy of getting better each year; we aim to provide more stimulating and enriching experiences as we progress towards the creation of a vast forum for expression. Keeping this in mind, this year we bring to you an innovation in learning and problem resolution - Shishukunj MUN Evolve. 
