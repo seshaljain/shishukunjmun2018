@@ -1,6 +1,6 @@
 ---
 title: MUN World India
-subtitles: Knowledge Partener
+subtitles: Knowledge Partner
 image: "mun-world.jpg"
 ---
 MUN World India is a unique educational enterprise that helps students participate and develop the correct approach towards Model United Nations conferences and other public speaking events. The organization looks at Model UN conferences as an opportunity to develop essential skill sets that help students thrive in the long run. Some of these skills include collaborative problem solving, opinion development, public speaking, lobbying, negotiation etc. As a result, MUN World India’s educational programmes and training sessions are comprehensively designed to ensure that participants not only receive full fledged MUN training and orientation, but also experience practical and experientially oriented skill development.  
