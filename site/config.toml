@@ -3,4 +3,4 @@ baseurl = "http://shishukunjmun.com"
 
 languageCode = "en-us"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]    # For an easy start, see more at: https://gohugo.io/content-management/taxonomies/#hugo-taxonomy-defaults
-# googleAnalytics = "UA-XXXXX-Y"    # Google Analytics: change UA-XXXXX-Y to be your site's ID.
+googleAnalytics = "UA-88864802-1"    # Google Analytics: change UA-XXXXX-Y to be your site's ID.
