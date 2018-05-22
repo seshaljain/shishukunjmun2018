@@ -18,7 +18,7 @@ Thank you!
 **Diti Rawat**  
 Chairperson  
 UNCOPUOS  
-[copuos@shishukunjmun.com](mailto:copuos@shishukunjmun.com)  
+[uncopuos@shishukunjmun.com](mailto:uncopuos@shishukunjmun.com)  
 
 ## Organ Description
 Set up in 1959 by the General Assembly, amidst the tensions of the Cold War there was a growing concern in the international community that either space might become yet another field for intense rivalries between the superpowers or would be left for exploitation by a limited number of countries with the necessary resources. The Committee on the Peaceful Use of Outer Space governs the exploration and use of space for the benefit of humanity: for peace, security and development. The Committee, which originally consisted of 18 member states, has now grown to become one of the United Nations’ largest committees, with the membership of 87 countries. The committee was entrusted with ensuring worldwide participation in peaceful use of outer space, contemplating space related activities that could be undertaken by the United Nations, encouraging space research programmes and investigating legal issues emerging form exploration of outer space. It was involved in creation of five treaties and five principles of outer space. International collaboration in space exploration and utilization of space technology applications to meet the global development goals are discussed in the committee every year. Inferable from rapid advances in space technology, the space agenda is always evolving. The committee therefore provides a unique platform at the global level to supervise and discuss these advancements.
