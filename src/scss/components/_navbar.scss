@@ -30,3 +30,10 @@
     box-shadow: $dropdown-box-shadow; // mixin not used because sitewide shadows not enabled
   }
 }
+
+.btn.register {
+  @include hover-focus-active {
+    background-color: #000;
+    border-color: #000;
+  }
+}
