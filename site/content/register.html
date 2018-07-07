@@ -4,7 +4,7 @@
 
 <body>
   {{ partial "navbar.html" . }}
-<header class="justify-content-center text-center" style="margin-top: 0; height: 100vh; background-image: url('/assets/images/registration.jpg');">>
+<header class="justify-content-center text-center" style="margin-top: 0; height: 100vh; background-image: url('/assets/images/registration.jpg');">
     <div class="container">
       <h1>Register</h1>
       <hr class="mt-4 ml-auto mr-auto">
@@ -44,10 +44,16 @@
             <a href="mailto:operations@shishukunjmun.com">operations@shishukunjmun.com</a>, or Conference Director, Garvit Zalani at
             <a href="mailto:confdir@shishukunjmun.com">confdir@shishukunjmun.com</a>.</p>
 
-          <div class="d-flex justify-content-around my-5">
-            <a href="http://bit.ly/SchoolRegistrationShishukunjMUN" class="btn btn-primary btn-lg">School Registrations</a>
+          <div class="d-flex justify-content-around my-5 registration-buttons">
+            <a href="http://bit.ly/SchoolRegistrationShishukunjMUN" class="btn btn-primary btn-lg mr-3">School Registrations</a>
             <a href="http://bit.ly/IndividualRegistrationShishukunjMUN" class="btn btn-primary btn-lg">Individual Registrations</a>
           </div>
+
+          <style>
+            .registration-buttons .btn {
+              white-space: unset;
+            }
+          </style>
 
           <p>
             <strong>Note:</strong> Allotment will be guaranteed only after full payment has been made and received. Schools that
