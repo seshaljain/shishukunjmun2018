@@ -13,7 +13,7 @@ I am a 12th grader pursuing commerce and mathematics. I take a lot of interest i
 
 This year’s agenda of ‘Cross Border Tax Evasion’ will involve incorporation of economic and accountancy perspectives, which would be quite interesting. Cross border tax evasion is an issue faced by every country which makes its discussion necessary. I advise the delegates to come up with more constructive and technical solutions in the committee which have the ability of both bridging the loopholes of government policies and prevent further spread of tax evasion.
 
-I look forward to seeing you in September.  
+I look forward to seeing you in October.  
 All the best, and keep researching!  
 **Chirayu Sodani**  
 Chairperson  

@@ -13,7 +13,7 @@ I am an 11th grader and wish to pursue my career in international business and f
 
 I could not be more excited to chair SPECPOL this year. I expect the delegates to really delve into the many sub-issues pertaining to the topic at hand; some of the subtopics will compel you to shrewdly negotiate and navigate contentious issues and reach upon consensus. As the committee chairperson, I am deeply invested in every single experience of yours, and I would love for this committee to be a truly engaging and fun learning experience for novice and veteran delegates alike.
 
-I check my email compulsively and am super-passionate about any issues you may have, so unhesitatingly reach out to me if you have any questions, concerns, or points of confusion, at specpol@shishukunjmun.com, as you prepare for the committee and the conference. I cannot put into words how excited I am for the Shishukunj Model UN 2018 conference and look forward to meeting you all in September.  
+I check my email compulsively and am super-passionate about any issues you may have, so unhesitatingly reach out to me if you have any questions, concerns, or points of confusion, at specpol@shishukunjmun.com, as you prepare for the committee and the conference. I cannot put into words how excited I am for the Shishukunj Model UN 2018 conference and look forward to meeting you all in October.  
 Cheers!  
 **Samyak Shrimal**     
 Chairperson  

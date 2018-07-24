@@ -12,7 +12,7 @@ Any committee which does not come under the mandate of United Nations General As
 
 This year we have 3 specialized committees – two continuous crisis committees and the Security Council. These committees will challenge your problem solving skills, patience, imagination, tolerance, and negotiation & collaboration skills. Extensive agendas ranging from the Argentinian crisis to the Venezuelan crisis, which consider various ecological, economic and equitable factors, will surely keep you on your toes. 
 
-With an unflagging crisis staff and our enthusiastic Bureau members, I am sure you will have an unparalleled experience at the fourth iteration of the Shishukunj MUN! I look forward to meeting you this September!
+With an unflagging crisis staff and our enthusiastic Bureau members, I am sure you will have an unparalleled experience at the fourth iteration of the Shishukunj MUN! I look forward to meeting you this October!
 
 Best regards  
 **Maansi Goyal**  

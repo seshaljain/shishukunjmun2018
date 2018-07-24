@@ -17,7 +17,7 @@ The decision to keep the committee revolve around a very recent issue would help
 
 Coming back to the agenda, the committee is set keeping in mind the ongoing economic crisis in Venezuela and its effect on the neighbouring countries. The crisis is in existence for a couple of years and a few hyper-inflations have intensified the situation. The delegates are expected to formulate and suggest solutions to aid Venezuela in restoring its economy. Every delegate will be serving as the representative of a Latin American nation. In order to maintain the level of debate and formulate practical and feasible solutions, you all are expected to be well-equipped with the knowledge about the country you  are representing. The background guides will further help you understand the agenda. 
 
-Looking forward to see you all in September this year. Be ready for nail gripping crises and extensive debate. Until then, adieu and may the force be with you.  
+Looking forward to see you all in October this year. Be ready for nail gripping crises and extensive debate. Until then, adieu and may the force be with you.  
 **Debanshi Bansal**  
 Chairperson  
 Paralatino Organization for Regional Cooperation, 2018  

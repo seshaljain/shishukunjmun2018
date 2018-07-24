@@ -13,7 +13,7 @@ Now for a little bit about myself, I am a 12th grader pursuing Humanities with P
 
 The committee will be discussing the agenda 'Development of Space System for Conservation and Energy Solution', which has gained immense momentum in the recent years as implementable solutions on this topic are the need of the hour. The decisions that the committee now takes regarding this issue will influence the world more than ever. I would encourage all of you to thoroughly research on this topic in order to find solutions to this pivotal issue. 
 
-On behalf of the Bureau, I wish you all the best. Hope to meet you all this September!  
+On behalf of the Bureau, I wish you all the best. Hope to meet you all this October!  
 Thank you!  
 **Diti Rawat**  
 Chairperson  

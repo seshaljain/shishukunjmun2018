@@ -17,7 +17,7 @@ The following pages are intended to brief you about the agenda and the programme
 
 As representatives of different nations to the United Nations Environment Programme, you must have the knack of policy formation and should always welcome ideas and work to have a consensus and avoid voting. The delegates are expected to have a scientific approach and always keep in mind environmental consequences and practicality of solutions proposed by them.
 
-Looking forward to meet you all soon this September.  
+Looking forward to meet you all soon this October.  
 Cheers!  
 **Akshat Vora & Ashlesha Purohit**  
 Co-Chairpersons  

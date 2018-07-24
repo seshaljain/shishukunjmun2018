@@ -13,7 +13,7 @@ In the four days of the conference, you will take yourself into the world of dip
 
 The agenda is a relatively unattended one and calls for innovative solutions as well as improvisation. With the UN4MUN procedure and an unhackneyed agenda, you will surely have an in-depth experience of a realistic UN simulation.
 
-Please feel free to reach out to me if you have any questions or concerns as you prepare for the committee. Looking forward to all the debate in the committee and your novel solutions. Hope to see you all in September!  
+Please feel free to reach out to me if you have any questions or concerns as you prepare for the committee. Looking forward to all the debate in the committee and your novel solutions. Hope to see you all in October!  
 Thank you!  
 **Prarabdh Shivhare**  
 Chairperson  
