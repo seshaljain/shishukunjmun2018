@@ -4,7 +4,7 @@
 
 <img class="headshot" src="/assets/images/people/kd.png" alt="Secretary General"> 
 **Dear Delegates and Faculty Advisors,**  
-It is my distinct honour and pleasure to welcome you all to the Shishukunj Model United Nations 2018, as the Secretary-General of the conference. The fourth session of the Shishukunj MUN will be held at The Shishukunj International School, Indore from October 4 to October 7, 2018.
+It is my distinct honour and pleasure to welcome you all to the Shishukunj Model United Nations 2018, as the Secretary-General of the conference. The fourth session of the Shishukunj MUN will be held at The Shishukunj International School, Indore from October 5 to October 7, 2018.
 
 Our world today is endangered by countless issues ranging from terrorist infestations, economic recessions and seemingly unceasing exploitation, to environmental threats and international clashes. Many of the hopeful people have lost hope and consider destruction inevitable. Disheartened by the scales repeatedly tipping in favour of the influential, they optimistically turn to the future generations to change the world for the better.
 

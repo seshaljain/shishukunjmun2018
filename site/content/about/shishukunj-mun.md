@@ -18,4 +18,4 @@ This year, Shishukunj MUN features 9 diverse committees, each with an intriguing
 ### Shishukunj MUN: Evolve – a Pioneering Initiative 
 Shishukunj MUN wishes to give its guests the very best of experiences. For the 4th iteration, we add another special feature to our conference – Shishukunj MUN: Evolve. Entitled executives and personalities of different fields will each be conversing with delegates of the committees in which they specialize. Our esteemed guests include personalities ranging from economists to government executives who will be engaging in one-to-one conversation with the delegates and will be offering their opinions over the resolutions formed.
 
-For more details, check the [Evolve](/about/evolve/) page.
+For more details, check the [Evolve](/committees/evolve/) page.
